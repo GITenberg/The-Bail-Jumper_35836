@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1145
     wikipedia: http://en.wikipedia.org/wiki/Robert_J.C._Stead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35836#The-Bail-Jumper
 gutenberg_issued: '2011-04-14'
 gutenberg_type: Text
 identifiers:
